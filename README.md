@@ -1,5 +1,5 @@
 # Ryan Magdaleno    
-I'm a Software Engineer that wants to build projects centered around my hobbies!
+I'm a Software Engineer that likes to build projects centered around my hobbies!
 
 > My main focus is on rhythm game projects.  
 > I mainly use C++, Go, and Python.  
