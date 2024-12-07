@@ -2,7 +2,7 @@
 
 Some projects I've created :  
 - [VSRG-UNO-R3 : : osu!mania Arduino Autoplayer + Stats Display](https://github.com/typeRYOON/VSRG-UNO-R3)
-- [Mania Vision : : Handcam Video to VSRG Hitmap (WIP)](https://github.com/typeRYOON/Mania-Vision)
+- [Mania-Vision : : Handcam Video to VSRG Hitmap (WIP)](https://github.com/typeRYOON/Mania-Vision)
 - More to come
 
 I am a gamer :
